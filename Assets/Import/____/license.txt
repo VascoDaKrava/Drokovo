@@ -1,0 +1,11 @@
+Model Information:
+* title:	Металлический каркас лестницы закрытого типа
+* source:	https://sketchfab.com/3d-models/567bf8489c644dbbab6c98f2c0564aa1
+* author:	xegcbr (https://sketchfab.com/xegcbr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Металлический каркас лестницы закрытого типа" (https://sketchfab.com/3d-models/567bf8489c644dbbab6c98f2c0564aa1) by xegcbr (https://sketchfab.com/xegcbr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
