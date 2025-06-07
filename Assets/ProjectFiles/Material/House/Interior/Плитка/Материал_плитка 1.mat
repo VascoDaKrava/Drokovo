@@ -7,7 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MaterialHouseDoor_out
+  m_Name: "\u041C\u0430\u0442\u0435\u0440\u0438\u0430\u043B_\u043F\u043B\u0438\u0442\u043A\u0430
+    1"
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -44,7 +45,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 788e985d893ea2d4d9dd8eac9b9f0cc8, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1b40d73db90e55246995815e40b6fe81, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -66,9 +67,9 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.128
+    - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _Metallic: 0.681
+    - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
